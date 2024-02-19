@@ -1,6 +1,13 @@
 # Change Log - @autorest/configuration
 
-This log was last generated on Thu, 16 Nov 2023 16:00:04 GMT and should not be manually modified.
+This log was last generated on Mon, 19 Feb 2024 23:08:53 GMT and should not be manually modified.
+
+## 1.12.1
+Mon, 19 Feb 2024 23:08:53 GMT
+
+### Patches
+
+- rename openapi-to-cadl to openapi-to-typespec
 
 ## 1.12.0
 Thu, 16 Nov 2023 16:00:04 GMT

@@ -2,6 +2,38 @@
   "name": "@autorest/openapi-to-typespec",
   "entries": [
     {
+      "version": "0.7.0",
+      "tag": "@autorest/openapi-to-typespec_v0.7.0",
+      "date": "Mon, 19 Feb 2024 23:08:53 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Add support for custom resource, enhance doc conversion and fix default value issue"
+          },
+          {
+            "comment": "Initial Support for ARM in OpenAPI to TypeSpec Conversion"
+          },
+          {
+            "comment": "Support Auth"
+          },
+          {
+            "comment": "Support new location resource expression, support new flatten decorator and fix doc escape problem."
+          }
+        ],
+        "patch": [
+          {
+            "comment": "Add feature and fix bug for converter."
+          },
+          {
+            "comment": "Fix validation issues for converter"
+          },
+          {
+            "comment": "Improve data-plane tspconfig"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.6.0",
       "tag": "@autorest/openapi-to-cadl_v0.6.0",
       "date": "Thu, 16 Nov 2023 16:00:04 GMT",

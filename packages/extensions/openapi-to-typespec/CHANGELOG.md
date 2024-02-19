@@ -1,6 +1,22 @@
 # Change Log - @autorest/openapi-to-typespec
 
-This log was last generated on Thu, 16 Nov 2023 16:00:04 GMT and should not be manually modified.
+This log was last generated on Mon, 19 Feb 2024 23:08:53 GMT and should not be manually modified.
+
+## 0.7.0
+Mon, 19 Feb 2024 23:08:53 GMT
+
+### Minor changes
+
+- Add support for custom resource, enhance doc conversion and fix default value issue
+- Initial Support for ARM in OpenAPI to TypeSpec Conversion
+- Support Auth
+- Support new location resource expression, support new flatten decorator and fix doc escape problem.
+
+### Patches
+
+- Add feature and fix bug for converter.
+- Fix validation issues for converter
+- Improve data-plane tspconfig
 
 ## 0.6.0
 Thu, 16 Nov 2023 16:00:04 GMT
